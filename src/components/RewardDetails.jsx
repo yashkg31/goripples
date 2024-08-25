@@ -16,7 +16,7 @@ const RewardDetails = () => {
   }
 
   const handleClick = () => {
-    navigate("/");
+    navigate("/dashboard");
   }
 
   return (
